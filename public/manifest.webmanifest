@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Pliego · Pósteres a tu medida",
+  "short_name": "Pliego",
+  "description": "De imagen a póster, hoja por hoja.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfcfe",
+  "theme_color": "#4056d6",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
